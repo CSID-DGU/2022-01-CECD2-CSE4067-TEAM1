@@ -1,0 +1,291 @@
+﻿Error,Message
+0,'identifier' is a member of 'identifier' and 'identifier'
+1,'identifier' is a pure virtual function
+2,'identifier' is already defined
+3,'identifier' is a virtual base class of 'identifier'
+4,'identifier' is far
+5,'identifier' is not a class template
+6,'identifier' is not a constructor
+7,'identifier' is not a correct struct
+8,'identifier' is not a member of enum 'identifier'
+9,'identifier' is not a member of struct 'identifier'
+10,'identifier' is not a member of forward referenced struct 'identifier'
+11,'identifier' is not a struct or a class
+12,'identifier' is not in function parameter list
+13,'identifier' is not a variable
+14,'identifier' must be a base class
+15,'identifier' must be a class name preceding '::'
+16,'identifier' must be a public base class of 'identifier'
+17,'identifier' previously declared as something else
+18,identifier storage class is illegal in this context
+19,number actual arguments expected for identifier
+20,number exceeds maximum of number parameters
+21,number operands expected for the identifier instruction
+22,':' expected
+23,'::' or '(' expected after class 'identifier'
+24,';' expected
+25,'
+26,']' expected
+27,'(' expected
+28,')' expected
+29,'{' expected
+30,'}' expected
+31,'{' or tag identifier expected
+32,'='
+33,// comments are not ANSI C
+34,## cannot appear at beginning or end
+35,# must be followed by a parameter
+36,'#else' or '#elif' found without '#if'
+37,'#endif' found without '#if'
+38,#include <typeinfo.h> in order to use RTTI
+39,#pragma pack(pop) does not have corresponding push
+40,'<' expected following cast
+41,'<' expected following 'identifier'
+42,'>' expected
+43,0 expected
+44,0 or 1 expected
+45,a '...' handler must be the last one for a try-block
+46,a catch must follow a try-block
+47,access declaration must be in public or protected section
+48,a derived class member has the same name identifier
+49,alignment must be a power of 2
+50,alloca() cannot be used in Windows functions
+51,already seen initializer for 'identifier'
+52,ambiguous reference to base class 'identifier'
+53,ambiguous reference to function
+54,ambiguous type conversion
+55,argument of type 'identifier' to copy constructor
+56,argument to postfix ++ or --must be int
+57,array dimension must be > 0
+58,array of functions is illegal
+59,array of functions or refs is illegal
+60,array or pointer required before '['
+61,assembler opcode expected
+62,assignment to 'this' is obsolete
+63,at least one parameter must be a class or a class&
+64,bad -D switch
+65,bad file name 'filename'
+66,bad member-initializer for 'identifier'
+67,base class 'name' has different ambient memory model
+68,binary exponent part required for hex floating constants
+69,blank arguments are illegal
+70,'break' is valid only in a loop or switch
+71,can only delete pointers
+72,can't assign to const variable
+73,can't build filespec 'filename'
+74,can't declare member of another class identifier
+75,can't handle constructor in this context
+76,can't have unnamed bit fields in unions
+77,can't open response file
+78,can't pass const/volatile object to non-const/volatile member function
+79,can't return arrays
+80,can't take address of register
+81,can't take sizeof bit field
+82,cannot convert identifier* to a private base class identifier*
+83,cannot create instance of abstract class 'identifier'
+84,cannot define parameter as extern
+85,cannot delete pointer to const
+86,cannot find constructor for class matching
+87,cannot generate identifier for class 'identifier'
+88,cannot generate template instance from -XI identifier
+89,cannot have member initializer for 'identifier'
+90,cannot implicitly convert
+91,cannot mix C++ EH with NT structured EH
+92,cannot raise or lower access to base member 'identifier'
+93,cannot throw object of 'identifier' not of ambient memory model
+94,case number was already used
+95,casts and sizeof are illegal in preprocessor expressions
+96,catch type masked by previous catch
+97,class name identifier expected after ~
+98,code segment too large
+99,comma not allowed in constant expression
+100,comments do not nest
+101,compile all files with -EH to support exception handling
+102,compile all files with -ER to support RTTI
+103,const or reference 'identifier' needs initializer
+104,constant expression does not fit in switch type
+105,constant initializer expected
+106,'continue' is valid only in a loop
+107,conversion of int to far or handle pointer
+108,data or code defined in precompiled header
+109,declarator for 0 sized bit field
+110,'default:' is already used
+111,different configuration for precompiled header
+112,divide by 0
+113,duplicate direct base class 'identifier'
+114,DS is not equal to DGROUP
+115,duplicate file names 'filename'
+116,empty declaration
+117,end of file found before '#endif'
+118,end of file found before end of comment
+119,end of line expected
+120,error writing output file
+121,exception specifications must match exactly for each declaration of a function
+122,expected assembler directive PTR to follow assembler cast
+123,expected data def of 'identifier'
+124,exponent expected
+125,expression expected
+126,expression must be a pointer
+127,expression must be a pointer or reference to a polymorphic type
+128,external with block scope cannot have initializer
+129,'_far16' is only valid in -mf memory model
+130,'_far16' functions can only be extern
+131,field 'identifier' must be of integral type
+132,filespec string expected
+133,__finally or __except expected
+134,forward referenced class 'identifier' cannot be a base class
+135,function 'identifier' can't be in an anonymous union
+136,function member 'identifier' has no prototype
+137,function 'identifier' is too complicated to inline
+138,function definition must have explicit parameter list
+139,function expected
+140,functions can't return arrays or functions
+141,GetExceptionCode() only valid in exception filter or handler
+142,GetExceptionInformation() only valid in exception filter
+143,global anonymous unions must be static
+144,hex digit expected
+145,identifier expected
+146,identifier found in abstract declarator
+147,identifier is longer than 254 chars
+148,identifier or '(declarator) ' expected
+149,illegal addressing mode
+150,illegal cast
+151,illegal character
+152,illegal combination of types
+153,illegal constuctor or destructor declaration
+154,illegal operand
+155,illegal operand types
+156,illegal pointer arithmetic
+157,illegal return type for operator->()
+158,illegal type combination
+159,illegal type for 'identifier' member
+160,illegal type/size of operands for the identifier instruction
+161,implied return at closing '}' does not return value
+162,initialization of 'identifier' is skipped
+163,initializer for static member must be outside of class def
+164,initializer or function body for dllimport not allowed
+165,integer constant expression expected
+166,integral expression expected
+167,internal error identifier number
+168,invalid instruction set 'set' for memory model 'model'
+169,invalid reference initialization
+170,invalid storage class for friend
+171,keyword not supported
+172,last line in file had no \n
+173,__leave must be within a __try block
+174,line number expected
+175,"linkage specs are ""C"""
+176,local class cannot have static data member 'identifier'
+177,long long not supported for ANSI or 16 bit compiles
+178,lvalue expected
+179,main()
+180,maximum width of number bits exceeded
+181,macro 'identifier' can't be #undef'd or #define'd
+182,malformed template declaration
+183,maximum length of macro text exceeded
+184,max of number characters in string exceeded
+185,member 'identifier' can't be same type as struct 'identifier'
+186,member 'identifier' is const but there is no constructor
+187,member 'identifier' of class 'identifier' is not accessible
+188,member 'identifier' of class 'identifier' is private
+189,missing '
+190,missing decl-specifier-seq for declaration of 'identifier'
+191,"must be void operator delete(void *[, size_t]);"
+192,must use delete[] for arrays
+193,need at least one external def
+194,no constructor allowed for class 'identifier'
+195,no definition for static 'identifier'
+196,no identifier for declarator
+197,no input file specified
+198,no instance of class 'identifier'
+199,no instance of class 'identifier' for member 'identifier'
+200,no match for function 'identifier'
+201,no return value for function 'identifier'
+202,no tag name for struct or enum
+203,non-const reference initialized to temporary
+204,not a struct or union type
+205,not an overloadable operator token
+206,not in a switch statement
+207,number 'number' is too large
+208,number is not representable
+209,object has 0 size
+210,octal digit expected
+211,one argument req'd for member initializer for 'identifier'
+212,only classes and functions can be friends
+213,only one identifier is allowed to appear in a declaration appearing in a conditional expression
+214,operator overload must be a function
+215,out of memory
+216,overloaded function 'identifier' has different access levels
+217,parameter list is out of context
+218,parameter lists do not match for template 'identifier'
+219,pascal string length number is longer than 255
+220,pointer required before '->'
+221,pointer required before '->' or after '*'
+222,pointer to member expected to right of .* or ->*
+223,possible extraneous ';'
+224,possible unintended assignment
+225,pragma cseg must be at global scope
+226,precompiled header compiled with C instead of C++
+227,precompiled header compiled with C++ instead of C
+228,prefix opcode must be followed by an assembler opcode
+229,premature end of source file
+230,prototype for 'identifier' should be identifier
+231,pure function must be virtual
+232,qualifier or type in access declaration
+233,recursive prototype
+234,redefinition of default parameter
+235,reference to 'identifier' caused a 386 instruction to be generated
+236,reference must refer to same type or be const
+237,return type cannot be specified for conversion function
+238,returning address of automatic 'identifier'
+239,segment size is number
+240,should be number parameter(s) for operator
+241,size of identifier is not known
+242,size of type exceeds 64KB
+243,statement expected
+244,static function 'identifier' can't be virtual
+245,static or non-member functions can't be const or volatile
+246,static variables in inline functions not allowed
+247,storage class for 'identifier' can't be both extern and inline
+248,string expected
+249,struct-declaration-list can't be empty
+250,template-argument 'identifier' must be a type-argument
+251,template-argument 'identifier' not used in function parameter types
+252,too many errors
+253,too many initializers
+254,trailing parameters must have initializers
+255,__try only valid for -mn memory model
+256,type conversions must be members
+257,type is too complex
+258,type mismatch
+259,type must be a pointer or a reference to a defined class or void*
+260,"type must be void *operator new(size_t [,..]);"
+261,type of 'identifier' does not match function prototype
+262,types may not appear more than once in an exception specification
+263,unable to open input file 'filename'
+264,unable to open output file 'filename'
+265,undefined escape sequence
+266,undefined identifier 'identifier'
+267,undefined label 'identifier'
+268,undefined tag 'identifier'
+269,undefined use of struct or union
+270,unknown operand type for this floating point instruction
+271,union members cannot have ctors or dtors
+272,unrecognized pragma
+273,unrecognized parameter 'identifier'
+274,unrecognized preprocessing directive '#identifier'
+275,unrecognized token
+276,unsupported based type
+277,unsupported __declspec type
+278,unterminated macro argument
+279,unterminated string
+280,use delete[] rather than delete[expr]
+281,using operator++() (or --) instead of missing operator++(int)
+282,valid memory models are -m[tsmcrzlvfnpx]
+283,value of expression is not used
+284,variable 'identifier' used before set
+285,vectors cannot have initializers
+286,very large automatic
+287,voids have no value
+288,voids have no value
+289,'while' expected

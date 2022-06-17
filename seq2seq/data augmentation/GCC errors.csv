@@ -1,0 +1,75 @@
+﻿errors
+`##' at end of macro definition
+`##' at start of macro definition
+`#elif' after `#else'
+#error XXX
+`#XXX' not within a conditional
+"`#include' expects ""FILENAME"" or <FILENAME>"
+`#' operator is not followed by a macro argument name
+ANSI C requires a named argument before `...'
+arithmetic on pointer to an incomplete type
+attempt to take address of bit-field structure member `XXX'
+badly punctuated parameter list in `#define'
+break statement not within loop or switch
+called object is not a function
+case label not within a switch statement
+character constant too long
+char-array initialized from wide string
+conflicting types for `XXX'
+continue statement not within a loop
+declaration of `XXX' as array of voids
+default label not within a switch statement
+dereferencing pointer to incomplete type
+duplicate case value
+empty character constant
+empty file name in `#include'
+empty #if expression
+enumerator value for `xxx' not integer constant
+function `XXX' is initialized like a variable
+incompatible type for argument N of `XXX'
+incompatible types in assignment
+invalid format `#line' directive
+invalid #-line
+invalid initializer
+invalid macro name `defined'
+invalid macro name `XXX'
+invalid operands to binary X
+invalid preprocessing directive name
+invalid use of undefined type `XXX'
+invalid type argument of `unary *'
+macro or `#include' recursion too deep
+multiple default labels in one switch
+negative width in bit-field `XXX'
+No such file or directory
+numeric constant contains digits beyond the radix
+parameter `XXX' is initialized
+parameter name omitted
+parse error
+parse error before `XXX'
+possible real start of unterminated constant
+redeclaration of `XXX'
+redefinition of `XXX'
+register name not specified for `XXX'
+request for member `XXX' in something not a structure or union
+`sizeof' applied to a bit-field
+storage size of `XXX' isn't known
+structure has no member named `XXX'
+top-level declaration of `XXX' specifies `auto'
+too few arguments to function `XXX'
+too many arguments to function `XXX'
+typedef `XXX' is initialized
+unbalanced `#endif'
+undefined or invalid # directive
+union has no member named `XXX'
+unterminated character constant
+unterminated comment
+unterminated `#if' conditional
+unterminated macro call
+unterminated string or character constant
+variable or field `XXX' declared void
+void value not ignored as it ought to be
+`XXX' declared as function returning an array
+`XXX' defined as wrong kind of tag
+`XXX' has both `extern' and initializer
+XXX: No such file or directory
+`XXX' previously declared here
