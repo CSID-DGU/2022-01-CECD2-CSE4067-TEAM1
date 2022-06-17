@@ -24,7 +24,16 @@
   </tr>
 </table>
 
-## NLP Model Result (accuracy : as in BLEU's method
+### Use EDA(Easy Data Augmentaion)
+![image](https://user-images.githubusercontent.com/54761791/174256401-d6e5664b-47a6-4a85-b3a7-0046a428e559.png)
+  
+--------------------------------------------------------------------------  
+  <div>
+    <div>
+    </div>
+  </div>
+  
+## NLP Model Result using EDA (accuracy : as in BLEU's method)
 <div> Accuracy was averaged after each sentence was given 
   a value between 0 and 1, with the percentage of the number of tokens matching each 
   token in the sentence, as in BLEU's method
