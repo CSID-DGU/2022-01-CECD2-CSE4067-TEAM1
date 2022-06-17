@@ -1,27 +1,40 @@
-컴퓨터공학종합설계2 1팀 PineTree
-![슬라이드1](https://user-images.githubusercontent.com/72081383/174254977-8aa97fd2-859d-4c80-81e1-b357842ac7de.PNG)
-![슬라이드2](https://user-images.githubusercontent.com/72081383/174255028-8c8afb7b-6900-4b12-a4e4-c7b460360de9.PNG)
-![슬라이드3](https://user-images.githubusercontent.com/72081383/174255030-c3e557ab-f179-4a11-bc53-f9fbe246246e.PNG)
-![슬라이드4](https://user-images.githubusercontent.com/72081383/174255031-81913a91-7e43-48c0-8856-e995f291acf0.PNG)
-![슬라이드5](https://user-images.githubusercontent.com/72081383/174255033-f63f01e0-7c5f-46a6-81fc-bb91781de5f7.PNG)
-![슬라이드6](https://user-images.githubusercontent.com/72081383/174255035-11e5c7b4-29d6-4570-9227-846eb5f40123.PNG)
-![슬라이드7](https://user-images.githubusercontent.com/72081383/174255039-018ad856-f0bd-483b-acb0-fd6e04e1b160.PNG)
-![슬라이드8](https://user-images.githubusercontent.com/72081383/174255041-945453f7-df31-4e53-8421-87b91c58a36b.PNG)
-![슬라이드9](https://user-images.githubusercontent.com/72081383/174255058-f524020f-4fe3-4820-be37-b88208d49234.PNG)
-![슬라이드10](https://user-images.githubusercontent.com/72081383/174255061-74b4ecc5-232e-44ee-9d7f-650abe3dfebf.PNG)
-![슬라이드11](https://user-images.githubusercontent.com/72081383/174255064-7862c9c0-887f-4893-ac64-f480c0e33b78.PNG)
-![슬라이드12](https://user-images.githubusercontent.com/72081383/174255068-cd401cd9-0e93-47b2-8c4a-1d9e2c89d0d3.PNG)
-![슬라이드13](https://user-images.githubusercontent.com/72081383/174255071-81665c68-9151-4eed-9135-4adf8f4a9c3d.PNG)
-![슬라이드14](https://user-images.githubusercontent.com/72081383/174255073-cd464da5-a1dd-4381-9394-a5bbd12eabf6.PNG)
-![슬라이드15](https://user-images.githubusercontent.com/72081383/174255075-ea7e5450-2d9e-4701-8b9e-d745d55b5828.PNG)
-![슬라이드16](https://user-images.githubusercontent.com/72081383/174255078-a1e78625-de7c-46d0-9e33-f492a3fedc18.PNG)
-![슬라이드17](https://user-images.githubusercontent.com/72081383/174255079-af4f148b-c694-44d0-aa8d-13f52f4f1841.PNG)
-![슬라이드18](https://user-images.githubusercontent.com/72081383/174255081-9012f6a3-b30d-4b6e-b222-d57134615917.PNG)
-![슬라이드19](https://user-images.githubusercontent.com/72081383/174255085-8b177a98-63c7-4dd8-8797-0dbd0a89dd5f.PNG)
-![슬라이드20](https://user-images.githubusercontent.com/72081383/174255087-c6399e47-df9c-489e-9c5e-f952f663cf44.PNG)
-![슬라이드21](https://user-images.githubusercontent.com/72081383/174255088-57483440-1dd4-4b0c-acac-d6a0511a4c78.PNG)
-![슬라이드22](https://user-images.githubusercontent.com/72081383/174255090-37ec8b83-47f2-4d15-987f-6c3cfeedb05e.PNG)
-![슬라이드23](https://user-images.githubusercontent.com/72081383/174255097-2c035227-24d0-4200-8a40-403fad42425b.PNG)
-![슬라이드24](https://user-images.githubusercontent.com/72081383/174255104-98ede9c0-39a9-4670-bb22-6460e6957614.PNG)
-![슬라이드25](https://user-images.githubusercontent.com/72081383/174255107-e857bb91-5d78-47b9-a14c-afe5a3b7ad22.PNG)
-![슬라이드26](https://user-images.githubusercontent.com/72081383/174255109-04d742d5-6193-47f2-ad39-592548fe81f3.PNG)
+# 2022-01-CECD2-CSE4067-TEAM1
+2022년 1학기 종합설계2, 1팀 저장소
+<div> <b>PineTree 팀</b> </div>
+<div> 최지환 https://github.com/Choe-Ji-Hwan   <- 팀장</div>
+<div> 김동욱 https://github.com/Dongw1126      <- 팀원</div>
+<div> 김범규 https://github.com/BBongKim       <- 팀원</div>
+<div> 박계원 https://github.com/Kyewon-Park    <- 팀원</div>
+
+## Use NLP model
+<table border = "1">
+  <th> Transformer </th>
+  <th> Seq2Seq </th>
+  <tr>
+    <td> 
+      <div> 
+        <img src= "https://user-images.githubusercontent.com/54761791/174253618-c1d42c03-946e-494c-bbe6-b8846ccf9d51.png"> 
+      </div>
+    </td>
+    <td> 
+      <div> 
+        <img src= "https://user-images.githubusercontent.com/54761791/174253674-09bad1c4-0228-48b9-9b93-af55f157a38b.png"> 
+      </div>
+    </td>
+  </tr>
+</table>
+
+## NLP Model Result (accuracy : as in BLEU's method
+<div> Accuracy was averaged after each sentence was given 
+  a value between 0 and 1, with the percentage of the number of tokens matching each 
+  token in the sentence, as in BLEU's method
+</div>
+
+![image](https://user-images.githubusercontent.com/54761791/174254241-65d6e8cf-3e98-47c0-9e56-2b3187a42db9.png)
+
+## Pattern matching method result
+  ![image](https://user-images.githubusercontent.com/54761791/174255757-626dea96-21c7-4a33-9f50-d918af766c0a.png)
+
+  
+## Total System
+![image](https://user-images.githubusercontent.com/54761791/174253838-7daa1c3a-aa06-4b51-9c89-e07806610993.png)
