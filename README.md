@@ -1,10 +1,15 @@
 # 2022-01-CECD2-CSE4067-TEAM1
 2022년 1학기 종합설계2, 1팀 저장소
 <div> <b>PineTree 팀</b> </div>
-<div> 최지환 https://github.com/Choe-Ji-Hwan   <- 팀장</div>
-<div> 김동욱 https://github.com/Dongw1126      <- 팀원</div>
-<div> 김범규 https://github.com/BBongKim       <- 팀원</div>
-<div> 박계원 https://github.com/Kyewon-Park    <- 팀원</div>
+
+<div>
+  
+최지환 [![](https://img.shields.io/badge/Github-ChoeJiHwan-blue?style=flat-square&logo=Github)](https://github.com/Choe-Ji-Hwan)  <- 팀장 </br> 
+김동욱 [![](https://img.shields.io/badge/Github-Dongw1126-blue?style=flat-square&logo=Github)](https://github.com/Dongw1126) </br> 
+김범규 [![](https://img.shields.io/badge/Github-BBongKim-blue?style=flat-square&logo=Github)](https://github.com/BBongKim) </br>
+박계원 [![](https://img.shields.io/badge/Github-KyewonPark-blue?style=flat-square&logo=Github)](https://github.com/Kyewon-Park) </br> 
+  
+</div>  
 
 ## Use NLP model
 <table border = "1">
